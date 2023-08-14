@@ -1,7 +1,7 @@
 import axios, { CanceledError } from "axios";
 
 export default axios.create({
-  baseURL: "https://127.0.0.1:3000",
+  baseURL: "https://127.0.0.1:3000/api",
   withCredentials: true,
 });
 
