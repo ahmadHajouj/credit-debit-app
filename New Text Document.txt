@@ -1,0 +1,17 @@
+
+طلابات العميل:
+
+المدين يضاف اليه مع كل تعديل مثلا اذا اضفت 300 للمدين تضاف للاجمالي المدين وهكذا true
+اضف المجموع لكل داين true
+اضيف صفحة لكل عميل true
+اضيف اليوزرس true
+
+
+ناقص البرنامج:
+
+تشغيل ازرار التحديثات والاضافة وشبكها مع الباك اند true
+
+CBA3mFskLSxPRzeh
+M8N47hwaFITT0Xxn
+
+mongodb+srv://ahmad1416h:<password>@cluster0.twuwvve.mongodb.net/?retryWrites=true&w=majority
