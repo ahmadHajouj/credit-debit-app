@@ -1,7 +1,7 @@
 import axios, { CanceledError } from "axios";
 
 export default axios.create({
-  baseURL: "https://credit-debit-api.vercel.app",
+  baseURL: "https://credit-debit-api.vercel.app/api",
 });
 
 function setJwt(jwt) {
