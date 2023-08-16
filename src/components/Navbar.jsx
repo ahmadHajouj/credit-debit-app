@@ -40,7 +40,7 @@ const Navbar = ({ onOk, inputType, formLabel, title }) => {
           <div className="d-flex align-items-center">
             <h4>
               <Link to="/" className="link-unstyled">
-                {title ? `< ${title}` : t("app name")}
+                {title ? `< ${title}` : t("credit & debit")}
               </Link>
             </h4>
             <DropdownButton className="d-flex justify-content-start justify-content-start" />

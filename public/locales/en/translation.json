@@ -1,4 +1,6 @@
 {
+    "credit & debit":"credit & debit",
+    "app name":"app name",
     "login": "login",
     "logout": "logout",
     "Name":"Name",
@@ -10,7 +12,6 @@
     "debit date":"debit date",
     "debit":"debit",
     "Comments":"comments",
-    "app name":"app name",
     "total": "total",
     "enter a credit":"enter a credit",
     "enter a debit":"enter a debit",

@@ -1,4 +1,6 @@
 {
+    "credit & debit":"دائن و مدين",
+    "app name": "اسم التطبيق",
     "login":"تسجيل دخول",
     "logout":"تسجيل خروج",
     "Name":"اسم",
@@ -10,7 +12,6 @@
     "debit date":"تاريخ الصرف",
     "debit":"مدين",
     "Comments":"ملاحضات",
-    "app name": "اسم التطبيق",
     "total": "المجموع",
     "enter a credit": "ادخل الدائن",
     "enter a debit": "ادخل مدين",

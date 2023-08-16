@@ -30,7 +30,7 @@ const LoginPage = () => {
   return (
     <>
       <div className="nav-container px-5 d-flex">
-        <h4 className="text-white px-5">{t("app name")}</h4>
+        <h4 className="text-white px-5">{t("credit & debit")}</h4>
         <DropdownButton className="d-flex justify-content-start" />
       </div>
       <form onSubmit={handleSubmit(onSubmit)} className="p-5">
